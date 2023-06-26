@@ -4,7 +4,7 @@
 
 <p align="center">- :student: B.Tech. Information Technology (IT)
 <h3 align="center">Connect with me:</h3>
-<p align="center">- :email: How to reach me <a href="mailto:jay.kamolchai@gmail.com">jay.kamolchai@gmail.com</a></p>
+<p align="center">- :email: How to reach me <a href="mailto:kamolchai.suparojanee@gmail.com">kamolchai.suparojanee@gmail.com</a></p>
 <h3 align="center">GitHub Trophies:</h3>
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayallstars" alt="jayallstars" /></a>
