@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jay Kamolchai</h1>
-<h3 align="center">A passionate Fullstack Developer.</h3>
+<h3 align="center">A passionate Developer.</h3>
 <h3 align="center">Education:</h3>
 
 <p align="center">- :student: B.Tech. Information Technology (IT)
